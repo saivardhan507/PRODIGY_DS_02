@@ -1,4 +1,5 @@
-# Data Science Internship Task 2
+# Prodigy InfoTech Data Science Internship Task 2:
+
 <br>
 <img src="https://github.com/saivardhan507/PRODIGY_DS_02/blob/5f7ce6269cb203cb447af0a692f1d5695df296b5/Task_02.png"   >
 
